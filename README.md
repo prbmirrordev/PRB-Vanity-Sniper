@@ -30,5 +30,12 @@ birde gereken modulleri kurmak için terminale bunu yazın
 npm install ws extract-json-from-string
 ```
 
+kurulumdan sonra sniperı çalıştırmak için
+
+```bash
+node xd.js
+```
+
+
 # https://fakecrime.bio/3forMirror
 # https://guns.lol/prbmirror
