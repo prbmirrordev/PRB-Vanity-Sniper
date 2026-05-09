@@ -23,3 +23,7 @@ burada nelere göre doldurucağınızı anlatıyorum:
 4. webhookURL: Sniper bir işlem yaptığında (başarılı veya başarısız) size Discord üzerinden bildirim göndermesi için oluşturduğunuz Webhook bağlantısıdır.
 5. password: Bu alan monitor token hesabının şifresidir
 6. filtreEnabled: küfürlü, yasaklı veya istenmeyen kelimeleri içeren URL'leri atlamak için kullanılan bir filtredir. off durumunda gördüğü her hedef URL'yi yakalamaya çalışır.
+
+
+# https://fakecrime.bio/3forMirror
+# https://guns.lol/prbmirror
