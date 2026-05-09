@@ -4,7 +4,7 @@
 # KURULUM
 
 programda bulunan config.json dosyasını açın açtığınız zaman karşınızda bu seçenekler gözükücektir
-'''bash
+```bash
 {
     "claimToken": "",
     "monitorToken": "",
@@ -13,7 +13,7 @@ programda bulunan config.json dosyasını açın açtığınız zaman karşını
     "password": "",
     "FilterEnabled": "off" 
 }
-'''
+```
 
 burada nelere göre doldurucağınızı anlatıyorum:
 
