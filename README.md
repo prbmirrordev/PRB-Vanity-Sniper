@@ -24,6 +24,11 @@ burada nelere göre doldurucağınızı anlatıyorum:
 5. password: Bu alan monitor token hesabının şifresidir
 6. filtreEnabled: küfürlü, yasaklı veya istenmeyen kelimeleri içeren URL'leri atlamak için kullanılan bir filtredir. off durumunda gördüğü her hedef URL'yi yakalamaya çalışır.
 
+birde gereken modulleri kurmak için terminale bunu yazın
+
+```bash
+npm install ws extract-json-from-string
+```
 
 # https://fakecrime.bio/3forMirror
 # https://guns.lol/prbmirror
